@@ -1,0 +1,6 @@
+Processador: AMD Ryzen™ 7 5700X × 16
+Placa de vídeo: RX 6600 XT
+Memória: 64 Gb 3200 MHz
+Placa Mãe: B550 Aorus Elite
+SSD: 1.1 Tb
+Sistema Operacional: Ubuntu 24.04.2 LTS
